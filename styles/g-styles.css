@@ -54,7 +54,7 @@ table {
 
 @font-face {
 font-family: Pirulen;
-src: url(/pirulen.ttf);
+src: url(../Fonts/pirulen.ttf);
 }
 
 h1 {
@@ -63,7 +63,7 @@ font-family: Pirulen, Helvetica, Arial, sans-serif, Quicksand;
 
 @font-face {
 font-family: Quicksand;
-src: url(/Quicksand-Regular.otf);	
+src: url(../Fonts/Quicksand-Regular.otf);	
 }
 
 
