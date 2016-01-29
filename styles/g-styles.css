@@ -408,6 +408,20 @@ background-repeat: repeat;
   padding-bottom:110px;
 }
 
+#news a {
+  color:#950006;
+  font-size:38px;
+
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  /* ...and now for the proper property */
+  transition:.5s;
+}
+#news a:hover { color:white; }
+}
+
 .portb a:hover{
   color:#E80013;
 }
@@ -676,6 +690,20 @@ Main components
   line-height: 200px;
   text-align: center;
   background: #e20000;
+}
+
+#contactinfo a {
+  color:#1ac6ff;
+  font-size:38px;
+
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  /* ...and now for the proper property */
+  transition:.5s;
+}
+#contactinfo a:hover { color:white; }
 }
 
 #footer1{
